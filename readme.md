@@ -1,4 +1,4 @@
-# Code:
+<!-- # Code:
 
 ### Q) Where is the codes?
 inside **\backend** folder
@@ -105,3 +105,4 @@ Used Chain of Responsibility, Singletone, Repository.
 For API details please see: https://github.com/MahirMahbub/Wiki_Movies/blob/master/API%20Doc.pdf
 
 
+ -->
